@@ -14,7 +14,7 @@ Este proyecto automatiza esa tarea, asignando una **Categoría** y **Prioridad**
 Haga clic en el botón de abajo para abrir el cuaderno en Google Colab y ejecutar el código. 
 Solo necesitará su clave API de Gemini para probarlo.
 
-[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](PEGA_AQUÍ_TU_ENLACE_DE_COLAB_DEL_PASO_2)
+[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/migangel761-pixel/Clasificador_Emails_Gemini_Python/blob/main/Clasificador_Tickets_Email.ipynb)
 
 ---
 
