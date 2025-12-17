@@ -16,6 +16,12 @@ Solo necesitará su clave API de Gemini para probarlo.
 
 [![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/migangel761-pixel/Clasificador_Emails_Gemini_Python/blob/main/Clasificador_Tickets_Email.ipynb)
 
+## 🚀 Ejecuta el Clasificador de Tickets
+
+Este proyecto automatiza la clasificación de emails de soporte usando Python y la IA de Google Gemini.
+
+[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/migangel761-pixel/Clasificador_Emails_Gemini_Python/blob/main/Clasificador_Tickets_Email.ipynb)
+
 ---
 
 ## ⚙️ Tecnologías Clave
